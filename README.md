@@ -1,2 +1,2 @@
 # learnset
-like the name
+just like the name
