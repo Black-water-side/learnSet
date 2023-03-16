@@ -26,3 +26,7 @@ other
 #### [外卖订餐系统后端+前端](https://github.com/2020sjkks/2020sjkks)
 #### [uTools手册案例](https://github.com/fofolee/uTools-Manuals)
 #### [vsCode](https://github.com/microsoft/vscode)
+
+book
+
+#### [编程电子书](https://github.com/kevinisjk/Programming-e-book)
