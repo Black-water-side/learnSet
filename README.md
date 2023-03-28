@@ -21,6 +21,7 @@ flutter
 
 other  
 
+#### [leetcode刷题大全](https://github.com/youngyangyang04/leetcode-master)
 #### [局域网文件传输](https://github.com/matt-repository/lan-file-transfer)
 #### [无线密码分享](https://github.com/sdushantha/wifi-password)
 #### [YOLO](https://github.com/Megvii-BaseDetection/YOLOX)
